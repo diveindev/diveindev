@@ -1,0 +1,4 @@
+- 👋 Hi everyone, @diveindev is here
+- 🎥 @diveindev is a YouTube show where we learn coding by hacking different solutions together
+- 🔗 Check us out on [Youtube](https://www.youtube.com/channel/UCJKI_qa4SBr6dEAXXNi3RPw)
+- 👍 If like the content leave like and Subscribe
